@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "AL-shymaa Center",
+  title: "Code Storm",
   description:
     "A dedicated cademic platform for students, enabling them to manage study materials, upload files, and track tasks efficiently.",
 };

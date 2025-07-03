@@ -9,7 +9,7 @@ const ContactSection = () => {
         <div className="text-center">
           <h2 className="text-4xl font-bold text-text">Contact Our Team</h2>
           <p className="mt-4 text-xl text-text-secondary">
-            We're here to help with any questions about UniPortal.
+            We're here to help with any questions about Code Storm.
           </p>
         </div>
         <div className="mt-12 grid grid-cols-1 md:grid-cols-2 gap-8">
@@ -22,10 +22,10 @@ const ContactSection = () => {
               Typically reply within 24 hours
             </p>
             <Link
-              href="mailto:support@UniPortal.com"
+              href="ahmedsadeek312@gmail.com"
               className="mt-2 text-primary text-xl font-medium text-center block hover:text-primary-dark transition"
             >
-              support@UniPortal.com
+              ahmedsadeek312@gmail.com
             </Link>
           </div>
           <div className="bg-background-secondary p-8 rounded-xl border border-background-secondary">

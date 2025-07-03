@@ -18,7 +18,7 @@ const Navbar = async () => {
       <div className="max-w-6xl mx-auto flex justify-between items-center">
         <Link href="/" className="flex items-center space-x-2">
           <GiBookmarklet className="text-primary text-2xl" />
-          <span className="font-bold text-xl text-text">UniPortal</span>
+          <span className="font-bold text-xl text-text">Code Storm</span>
         </Link>
 
         <div className="hidden md:flex space-x-8">

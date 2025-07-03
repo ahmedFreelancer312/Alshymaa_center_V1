@@ -15,7 +15,7 @@ export default function LoginPage() {
           >
             <GiBookmarklet className="text-primary text-3xl" />
             <div className="text-left">
-              <h1 className="font-bold text-xl text-text">Al-Shymaa Center</h1>
+              <h1 className="font-bold text-xl text-text">Code Storm</h1>
               <p className="text-sm text-text-secondary">
                 Faculty of Computer Science
               </p>

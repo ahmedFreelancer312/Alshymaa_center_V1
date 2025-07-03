@@ -50,7 +50,7 @@ export default function AdminSidebar() {
   return (
     <div className="w-64 bg-white shadow-sm border-r border-gray-200 flex flex-col">
       <div className="p-4 border-b border-gray-200">
-        <h1 className="text-xl font-bold text-primary">Admin Portal</h1>
+        <h1 className="text-xl font-bold text-primary">Code Storm Admin</h1>
         <p className="text-sm text-text-secondary">Welcome back, Admin</p>
       </div>
 

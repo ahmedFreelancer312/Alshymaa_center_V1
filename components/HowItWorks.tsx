@@ -33,7 +33,7 @@ const HowItWorks = () => {
     <section id="how-it-works" className="py-20 bg-background">
       <div className="max-w-6xl mx-auto px-4">
         <div className="text-center">
-          <h2 className="text-4xl font-bold text-text">How UniPortal Works</h2>
+          <h2 className="text-4xl font-bold text-text">How Code Storm Works</h2>
           <p className="mt-4 text-xl text-text-secondary max-w-3xl mx-auto">
             Get set up in minutes and start seeing results immediately.
           </p>

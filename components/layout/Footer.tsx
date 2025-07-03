@@ -15,7 +15,7 @@ const Footer = () => {
           <div>
             <Link href="/" className="flex items-center space-x-2">
               <FaBook className="text-blue-400 text-2xl" />
-              <span className="font-bold text-xl">UniPortal</span>
+              <span className="font-bold text-xl">Code Storm</span>
             </Link>
             <p className="mt-4 text-gray-400">
               Helping students succeed since 2023.
@@ -99,7 +99,7 @@ const Footer = () => {
         </div>
         <div className="border-t border-gray-800 mt-12 pt-8 flex flex-col md:flex-row justify-between items-center">
           <p className="text-gray-400">
-            © {new Date().getFullYear()} UniPortal. All rights reserved.
+            © {new Date().getFullYear()} Code Storm. All rights reserved.
           </p>
           <div className="mt-4 md:mt-0 flex space-x-6">
             <Link

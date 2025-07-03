@@ -14,7 +14,7 @@ const AdminLoginPage = () => {
             <div className="flex items-center justify-center gap-2 mb-2">
               <RiAdminFill className="text-xl text-blue-600" />
               <h2 className="text-xl font-bold text-gray-800">
-                Administrator Portal
+                Code Storm Admin
               </h2>
             </div>
             <p className="text-xs text-gray-500">

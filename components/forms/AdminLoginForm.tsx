@@ -42,7 +42,7 @@ const AdminLoginForm = () => {
           <div className="mx-auto flex items-center justify-center h-16 w-16 rounded-full bg-blue-100 mb-4 text-blue-600">
             <FaUserShield className="text-2xl" />
           </div>
-          <h2 className="text-2xl font-bold text-gray-800">Admin Portal</h2>
+          <h2 className="text-2xl font-bold text-gray-800">Code Storm Admin</h2>
           <p className="mt-2 text-sm text-gray-600">
             Restricted access to authorized personnel only
           </p>
