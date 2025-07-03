@@ -1,4 +1,3 @@
-/* eslint-disable react/no-unescaped-entities */
 "use client";
 import axios from "axios";
 import { useEffect, useState, useRef } from "react";

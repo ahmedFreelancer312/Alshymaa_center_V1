@@ -6,7 +6,7 @@ import {
   FaBook,
   FaCalendarAlt,
   FaFileAlt,
-  FaCog,
+  // FaCog,
 } from "react-icons/fa";
 import { FiHome, FiLogOut } from "react-icons/fi";
 
