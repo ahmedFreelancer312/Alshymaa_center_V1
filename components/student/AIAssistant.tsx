@@ -44,7 +44,7 @@ export default function AIAssistantPage() {
         } else {
           setSelectedFile(data.files[0]);
           addMessage({
-            text: `Hello! I'm UniBot AI. You've selected "${data.files[0].fileName}". Ask me anything about this document.`,
+            text: `Hello! I'm Ahmed Seddiq AI Bot. You've selected "${data.files[0].fileName}". Ask me anything about this document.`,
             sender: "ai",
           });
         }
